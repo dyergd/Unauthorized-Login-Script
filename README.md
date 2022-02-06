@@ -1,2 +1,3 @@
 # Unauthorized-Login-Script
-Automate log checking to identify attempted unauthorized logins to the server, identify the most egregious offenders, and add them to the server’s firewall
+Automates log checking to identify attempted unauthorized logins to the server, identifies the most egregious offenders, and adds them to the server’s firewall.
+This script was created my senior year for a system administration class.
