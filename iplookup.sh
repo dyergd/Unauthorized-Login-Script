@@ -65,7 +65,7 @@ function print_info {
 printf "Working...Please wait\n"
     for i in $(echo "$iponly")
     do
-	   curl -s ipinfo.io/"$i"?token=521105b09e77cd  
+	   curl -s ipinfo.io/"$i"?token=#removed token
 	   if [ "$?" != 0 ]; then
 		  printf "Error something went wrong"
 	       return
